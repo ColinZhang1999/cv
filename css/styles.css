@@ -28,7 +28,7 @@ table {
   text-align: center;
   background-color: #E4F9F5;
   position: relative;
-  padding-top: 230px;
+  padding-top: 200px;
 }
 
 .middle-container {
@@ -48,7 +48,7 @@ table {
 .top-cloud {
   position: absolute;
   right: 400px;
-  top: 150px;
+  top: 160px;
 }
 .bottom-cloud {
   position: absolute;
